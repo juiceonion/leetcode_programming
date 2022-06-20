@@ -20,7 +20,6 @@ public class 反转链表 {
             ptr = next;
 
         }
-
         return pre;
     }
 }
