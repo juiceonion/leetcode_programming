@@ -18,7 +18,6 @@ public class 反转链表 {
 
             pre = ptr;
             ptr = next;
-
         }
         return pre;
     }
