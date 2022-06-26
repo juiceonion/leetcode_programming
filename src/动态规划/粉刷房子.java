@@ -1,7 +1,6 @@
 package 动态规划;
 
 public class 粉刷房子 {
-
     private int getMin(int[][] costs, int index, int row) {
         switch (index) {
             case 0:
